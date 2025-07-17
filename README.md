@@ -8,7 +8,7 @@
 <div align="center"><h3> I Am A </h3></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Onest&weight=600&size=40&duration=4000&pause=2000&color=0CAFF7&background=D9F0FF00&center=true&vCenter=true&random=false&width=950&lines=Techophile+%F0%9F%A4%96%F0%9F%98%8E;Python+Developer+%F0%9F%90%8D;Data+Scientist+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Exercise+Enthusiast+%F0%9F%8F%83"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Onest&weight=600&size=40&duration=4000&pause=2000&color=0CAFF7&background=D9F0FF00&center=true&vCenter=true&random=false&width=950&lines=Techophile+%F0%9F%A4%96%F0%9F%98%8E;Python+Developer+%F0%9F%90%8D;Data+Scientist+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;AI+Engineer+%F0%9F%9B%A0%EF%B8%8F;Exercise+Enthusiast+%F0%9F%8F%83"/>
   <p></p>
   <a href="https://www.linkedin.com/in/navaneeth-sivakumar/"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width=4% style="padding-right:5px"></a>
   <a href="https://www.kaggle.com/navaneethsivakumar66"><img src="https://images.datacamp.com/image/upload/v1647430873/kaggle_logo_icon_168474_4eb653edb6.png" width=7% style="padding-right:5px"></a>
